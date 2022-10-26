@@ -22,6 +22,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
@@ -43,7 +45,7 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/nhutphi2111" target="blank">
+  <a href="https://facebook.com/nhutphi211102" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="rblood-facebook" />
   </a>
   <a href="https://instagram.com/iztblood.nh" target="blank">
